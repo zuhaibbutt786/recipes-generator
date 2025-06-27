@@ -1,5 +1,5 @@
-streamlit
 ultralytics
+streamlit
 Pillow
-opencv-python
 requests
+opencv-python-headless
